@@ -12,3 +12,10 @@ cp .env.example .env.local
 npm install
 npm run dev
 ```
+
+## Próximos passos
+
+* Tratamento de erros
+* Tema Light/Dark
+* Página de dashboard com os feedbacks
+* Autenticação
